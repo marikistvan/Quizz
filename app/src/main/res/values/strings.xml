@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="name">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+</resources>
